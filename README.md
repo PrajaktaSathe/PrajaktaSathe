@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!! 👋 😎
 
 <!--
 **PrajaktaSathe/PrajaktaSathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am completing my Bachelor's degree in Information Technology! 
+I am learning to write code... I know some amount of HTML and CSS, along with Python, C++, and Java! So...yeah! I've still got a lot to learn!! 😄 
