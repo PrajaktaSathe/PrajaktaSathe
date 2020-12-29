@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I am completing my Bachelor's degree in Information Technology! 
-I am learning to write code... I know some amount of HTML and CSS, along with Python, C++, and Java! So...yeah! I've still got a lot to learn!! 😄 
+I am learning to write code... I know some HTML and CSS, along with Python, C++, and Java! So...yeah! I'm trying to learn new things too!! 😄 
