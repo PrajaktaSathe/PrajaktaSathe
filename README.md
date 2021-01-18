@@ -1,5 +1,3 @@
-### Hi there!! 👋 😎
-
 <!--
 **PrajaktaSathe/PrajaktaSathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=PrajaktaSathe&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajaktaSathe)](https://github.com/PrajaktaSathe/github-readme-stats)
+### Hi there!! 👋 😎
 
 I am completing my Bachelor's degree in Information Technology! 
-I am learning to write code... I know some HTML and CSS, along with Python, C++, and Java! So...yeah! I'm trying to learn new things too!! 😄 
+I am learning to write code... I know some HTML and CSS, along with Python, C++, and Java! So...yeah! I'm trying to learn new things too!! 😄
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajaktaSathe)](https://github.com/PrajaktaSathe/github-readme-stats)
+
+![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=PrajaktaSathe&show_icons=true&theme=highcontrast)
+
+
+ 
