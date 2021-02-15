@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 ### Hi there!! 👋 😎
 
 I am completing my Bachelor's degree in Information Technology! 
-I know some HTML and CSS, along with Python, C++, and Java! Of course I still have a lot to learn...  So...yeah! I'm trying to learn new things too along with mastering the stuff I already know!! 😄
+<!-- I know some HTML and CSS, along with Python, C++, and Java! Of course I still have a lot to learn...  So...yeah! I'm trying to learn new things too along with mastering the stuff I already know!! 😄 -->
+
+- 🌱 I’m currently learning Javascript, Python frameworks and anything more I can learn!
+- 👯 I’m looking to collaborate on nothing specific.
+- 🤔 I’m looking for help with Javascript, and more complex things!
+- 💬 Ask me about HTML, CSS, Python, C++, and Java!
 
 Also, I have a YouTube channel which features tutorials related to programming as well as some videos on Python! Do check it out - https://www.youtube.com/channel/UCUCbyP0evXOnZ4vxFEnVn9w/featured
 
