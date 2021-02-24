@@ -18,7 +18,7 @@ I am completing my Bachelor's degree in Information Technology!
 <!-- I know some HTML and CSS, along with Python, C++, and Java! Of course I still have a lot to learn...  So...yeah! I'm trying to learn new things too along with mastering the stuff I already know!! 😄 -->
 
 - 🌱 I’m currently learning Javascript, Python frameworks and anything more I can learn!
-- 👯 I’m looking to collaborate on nothing specific.
+- 👯 I’m looking to collaborate on anything interesting!
 - 🤔 I’m looking for help with Javascript, and more complex things!
 - 💬 Ask me about HTML, CSS, Python, C++, and Java!
 
