@@ -20,7 +20,8 @@ I am completing my Bachelor's degree in Information Technology!
 - 🌱 I’m currently learning Javascript, Python frameworks and anything more I can learn!
 - 👯 I’m looking to collaborate on anything interesting!
 - 🤔 I’m looking for help with Javascript, and more complex things!
-- 💬 Ask me about HTML, CSS, Python, C++, and Java!
+- 💬 Ask me about my codes, HTML, CSS, Python, C++, and Java!
+- ⚡ Fun fact: I love to draw!
 
 Also, I have a YouTube channel which features tutorials related to programming as well as some videos on Python! Do check it out - https://www.youtube.com/channel/UCUCbyP0evXOnZ4vxFEnVn9w/featured
 
