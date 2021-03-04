@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there!! 👋 😎
 
-I am completing my Bachelor's degree in Information Technology! 
+I am pursuing my Bachelor's degree in Information Technology! 
 <!-- I know some HTML and CSS, along with Python, C++, and Java! Of course I still have a lot to learn...  So...yeah! I'm trying to learn new things too along with mastering the stuff I already know!! 😄 -->
 
 - 🌱 I’m currently learning Javascript, Python frameworks, documentation and anything more I can learn!
