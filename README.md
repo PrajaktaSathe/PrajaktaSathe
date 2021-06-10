@@ -23,7 +23,7 @@ I am pursuing my Bachelor's degree in Information Technology!
 - 💬 Ask me about my codes, HTML, CSS, Python, C++, Java, basic JavaScript!
 - ⚡ Fun fact: I love to draw!
 
-Also, I have a YouTube channel which features tutorials related to programming as well as some videos on Python! Do check it out - https://www.youtube.com/channel/UCUCbyP0evXOnZ4vxFEnVn9w/featured
+Also, I have a YouTube channel which features tutorials related to programming as well as some videos on Python! Check it out - https://www.youtube.com/channel/UCUCbyP0evXOnZ4vxFEnVn9w/featured
 
 ![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=PrajaktaSathe&show_icons=true&theme=highcontrast)
 
