@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 ### Hi there!! 👋 😎
 
-I am pursuing my Bachelor's degree in Information Technology! 
+<!-- I am pursuing my Bachelor's degree in Information Technology! -->
 <!-- I know some HTML and CSS, along with Python, C++, and Java! Of course I still have a lot to learn...  So...yeah! I'm trying to learn new things too along with mastering the stuff I already know!! 😄 -->
 
-- 🌱 I’m currently learning Javascript, Python frameworks, documentation and anything more I can learn!
+- 🌱 I’m currently learning Python libraries, machine learning, JavaScript, documentation and anything more that I can learn!
 - 👯 I’m looking to collaborate on anything interesting!
 - 🤔 I’m looking for help with Javascript libraries and frameworks, and more complex things!
 - 💬 Ask me about my codes, HTML, CSS, Python, C++, Java, basic JavaScript!
