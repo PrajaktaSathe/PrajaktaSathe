@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python libraries, machine learning, JavaScript, documentation and anything more that I can learn!
 - 👯 I’m looking to collaborate on anything interesting!
-- 🤔 I’m looking for help with Javascript libraries and frameworks, and more complex things!
-- 💬 Ask me about my codes, HTML, CSS, Python, C++, Java, basic JavaScript!
+- 🤔 I’m looking for help with advanced ML and data science!
+- 💬 Ask me about my codes, HTML, CSS, Python, C++, Java, basic JavaScript, and Machine Learning!
 - ⚡ Fun fact: I love to draw!
 
 Also, I have a YouTube channel which features tutorials related to programming as well as some videos on Python! Check it out - https://www.youtube.com/channel/UCUCbyP0evXOnZ4vxFEnVn9w/featured
